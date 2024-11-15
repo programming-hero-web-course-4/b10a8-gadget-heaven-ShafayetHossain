@@ -1,0 +1,226 @@
+[
+    {
+        "product_id": 1,
+        "product_title": "Dell XPS 13",
+        "product_image": "https://i.ibb.co.com/997Km7S/Computer-1.jpg",
+        "category": "computers",
+        "price": 999.99,
+        "description": "A high-performance laptop with a stunning InfinityEdge display.",
+        "Specification": [
+            "Intel Core i7",
+            "16GB RAM",
+            "512GB SSD",
+            "13.4 inch FHD+ Display"
+        ],
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "product_id": 2,
+        "product_title": "MacBook Air M1",
+        "product_image": "https://i.ibb.co.com/997Km7S/Computer-1.jpg",
+        "category": "computers",
+        "price": 1099.00,
+        "description": "Apple's thinnest and lightest notebook with M1 chip.",
+        "Specification": [
+            "Apple M1 Chip",
+            "8GB RAM",
+            "256GB SSD",
+            "13.3 inch Retina Display"
+        ],
+        "availability": true,
+        "rating": 4.9
+    },
+    {
+        "product_id": 3,
+        "product_title": "Samsung Galaxy S23",
+        "product_image": "https://i.ibb.co.com/7kNF5xc/Phone-1.jpg",
+        "category": "phones",
+        "price": 799.99,
+        "description": "The latest flagship smartphone with a powerful camera and performance.",
+        "Specification": [
+            "6.1 inch Display",
+            "12GB RAM",
+            "128GB Storage",
+            "50MP Triple Camera"
+        ],
+        "availability": true,
+        "rating": 4.7
+    },
+    {
+        "product_id": 4,
+        "product_title": "iPhone 14 Pro",
+        "product_image": "https://i.ibb.co.com/7kNF5xc/Phone-1.jpg",
+        "category": "phones",
+        "price": 999.99,
+        "description": "The ultimate iPhone with a stunning Super Retina XDR display.",
+        "Specification": [
+            "6.1 inch Display",
+            "6GB RAM",
+            "128GB Storage",
+            "48MP Triple Camera"
+        ],
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "product_id": 5,
+        "product_title": "Apple Watch Series 8",
+        "product_image": "https://i.ibb.co.com/kKLPdhZ/Watch-1.jpg",
+        "category": "watches",
+        "price": 399.00,
+        "description": "The latest smartwatch from Apple with advanced health features.",
+        "Specification": [
+            "GPS",
+            "Heart Rate Monitor",
+            "Always-On Display",
+            "Water Resistant"
+        ],
+        "availability": true,
+        "rating": 4.6
+    },
+    {
+        "product_id": 6,
+        "product_title": "Samsung Galaxy Watch 5",
+        "product_image": "https://i.ibb.co.com/kKLPdhZ/Watch-1.jpg",
+        "category": "watches",
+        "price": 329.99,
+        "description": "A smartwatch with health tracking and fitness features.",
+        "Specification": [
+            "1.4 inch AMOLED Display",
+            "GPS",
+            "Heart Rate Monitor",
+            "Sleep Tracking"
+        ],
+        "availability": true,
+        "rating": 4.5
+    },
+    {
+        "product_id": 7,
+        "product_title": "Anker PowerPort III",
+        "product_image": "https://i.ibb.co.com/jfj8F22/Charger-1.jpg",
+        "category": "chargers",
+        "price": 25.99,
+        "description": "Compact USB-C charger with PowerIQ technology for fast charging.",
+        "Specification": [
+            "USB-C",
+            "60W Power Output",
+            "Compact Design",
+            "Universal Compatibility"
+        ],
+        "availability": true,
+        "rating": 4.7
+    },
+    {
+        "product_id": 8,
+        "product_title": "Belkin Boost Charge Pro",
+        "product_image": "https://i.ibb.co.com/jfj8F22/Charger-1.jpg",
+        "category": "chargers",
+        "price": 34.99,
+        "description": "Fast wireless charger with 15W output for smartphones.",
+        "Specification": [
+            "Wireless Charging",
+            "15W Output",
+            "Compact Design",
+            "LED Indicator"
+        ],
+        "availability": true,
+        "rating": 4.6
+    },
+    {
+        "product_id": 9,
+        "product_title": "Anker PowerCore 20100mAh",
+        "product_image": "https://i.ibb.co.com/3fvZVSS/Power-Bank-1.jpg",
+        "category": "power banks",
+        "price": 39.99,
+        "description": "High-capacity portable charger with dual USB ports.",
+        "Specification": [
+            "20100mAh Capacity",
+            "Dual USB Output",
+            "Fast Charging",
+            "Compact Design"
+        ],
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "product_id": 10,
+        "product_title": "RAVPower 26800mAh Power Bank",
+        "product_image": "https://i.ibb.co.com/3fvZVSS/Power-Bank-1.jpg",
+        "category": "power banks",
+        "price": 49.99,
+        "description": "Massive capacity power bank with three output ports.",
+        "Specification": [
+            "26800mAh Capacity",
+            "Three USB Outputs",
+            "Fast Charging",
+            "LED Indicator"
+        ],
+        "availability": true,
+        "rating": 4.7
+    },
+    {
+        "product_id": 11,
+        "product_title": "Xiaomi Mi Power Bank 3",
+        "product_image": "https://i.ibb.co.com/3fvZVSS/Power-Bank-1.jpg",
+        "category": "power banks",
+        "price": 29.99,
+        "description": "A slim and stylish power bank with fast charging support.",
+        "Specification": [
+            "10000mAh Capacity",
+            "Dual USB Outputs",
+            "Fast Charging",
+            "Compact Design"
+        ],
+        "availability": true,
+        "rating": 4.5
+    },
+    {
+        "product_id": 12,
+        "product_title": "HP Spectre x360",
+        "product_image": "https://i.ibb.co.com/997Km7S/Computer-1.jpg",
+        "category": "computers",
+        "price": 1299.99,
+        "description": "A premium convertible laptop with a 4K display.",
+        "Specification": [
+            "Intel Core i7",
+            "16GB RAM",
+            "1TB SSD",
+            "15.6 inch 4K AMOLED Display"
+        ],
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "product_id": 13,
+        "product_title": "OnePlus 11",
+        "product_image": "https://i.ibb.co.com/7kNF5xc/Phone-1.jpg",
+        "category": "phones",
+        "price": 749.99,
+        "description": "A flagship smartphone with a powerful Snapdragon processor.",
+        "Specification": [
+            "6.7 inch Display",
+            "8GB RAM",
+            "128GB Storage",
+            "50MP Triple Camera"
+        ],
+        "availability": true,
+        "rating": 4.6
+    },
+    {
+        "product_id": 14,
+        "product_title": "Fitbit Versa 3",
+        "product_image": "https://i.ibb.co.com/kKLPdhZ/Watch-1.jpg",
+        "category": "watches",
+        "price": 229.95,
+        "description": "Smartwatch with GPS and 24/7 heart rate tracking.",
+        "Specification": [
+            "1.58 inch AMOLED Display",
+            "GPS",
+            "Heart Rate Monitoring",
+            "Water Resistant"
+        ],
+        "availability": false,
+        "rating": 4.4
+    }
+]
