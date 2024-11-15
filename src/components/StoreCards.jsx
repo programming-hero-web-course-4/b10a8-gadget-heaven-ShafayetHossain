@@ -21,10 +21,11 @@ const StoreCards = () => {
   // Check Here
 
     const handleSortPrice = () => {
-    const sorted = data.sort(function (a, b) {
+    const sorted = [...data].sort(function (a, b) {
       return b.price - a.price;
     });
     setData(sorted);
+    toast.success("Sorted Successfully!");
   };
 
 
