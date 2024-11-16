@@ -23,5 +23,5 @@ MY-GADGET-HEAVEN is an online marketplace that sells a variety of products, Main
     automatically adapt to various screen sizes, making it accessible on desktops, tablets, and mobile devices.
 ## Live Link
 
-https://cricket-squad-maker.netlify.app/
+https://gadget-heaven247.netlify.app/
 
